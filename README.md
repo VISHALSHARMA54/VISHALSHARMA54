@@ -1,6 +1,9 @@
 <h1 align=center><img src="https://github.com/VISHALSHARMA54/VISHALSHARMA54/blob/main/IMAGE/Hi.gif" height="32" /> Hi there, I'm Vishal 👨‍💻</h1>
 
-Welcome to my GitHub profile! I’m a passionate **Embedded Firmware Developer** specializing in designing, implementing, and optimizing firmware for a wide range of **embedded systems**. My focus is on delivering **high-performance, reliable, and scalable** embedded solutions.  
+**Welcome to my GitHub profile!**
+
+I’m **Vishal Sharma**, an **Embedded Firmware Developer** passionate about designing, implementing, and optimizing firmware for diverse **embedded systems**. My expertise lies in building **high-performance, reliable, and scalable** embedded solutions, ensuring efficiency and robustness in real-world applications.  
+
 
 ## 🚀 About Me  
 
@@ -37,7 +40,7 @@ I specialize in **embedded systems development**, focusing on **microcontroller-
 
 Here are the technologies and tools I regularly work with:  
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![RTOS](https://img.shields.io/badge/RTOS-008080?style=for-the-badge)  ![IoT](https://img.shields.io/badge/IoT-4682B4?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![RTOS](https://img.shields.io/badge/RTOS-008080?style=for-the-badge)  ![IoT](https://img.shields.io/badge/IoT-4682B4?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)  ![etc](https://img.shields.io/badge/ETC..-00599C?style=for-the-badge&logo=etc&logoColor=white)
 
 ## 📬 Let’s Connect!  
 
@@ -51,6 +54,3 @@ I'm always open to collaborating on exciting **embedded projects**, discussing e
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHALSHARMA54&show_icons=true&theme=default&rank_icon=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VISHALSHARMA54&color=blue&style=for-the-badge)  [![GitHub Followers](https://img.shields.io/github/followers/VISHALSHARMA54?style=for-the-badge)](https://github.com/VISHALSHARMA54?tab=followers)  
-
-
-
