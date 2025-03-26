@@ -3,6 +3,8 @@
 
 Hi there! I'm **Vishal Sharma**, an **Embedded Firmware Developer** with **2.3+ years of experience** in designing firmware solutions for **IoT, RTOS, and Embedded Systems**.  
 
+---
+
 ## 🚀 About Me  
 🔧 **Embedded Firmware Developer** at EMPROTEK Software Solutions Pvt. Ltd.  
 🎓 **Master's in Electronic Science** from Fergusson College, Pune.  
@@ -47,8 +49,6 @@ Hi there! I'm **Vishal Sharma**, an **Embedded Firmware Developer** with **2.3+ 
 ---
 
 ⭐ **If you find my work useful, consider giving it a star!** ⭐  
-
-
 
 <!--
 **VISHALSHARMA54/VISHALSHARMA54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
