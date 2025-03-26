@@ -1,4 +1,4 @@
-<h1 align=center>👋 Hi there, I'm Vishal 👨‍💻</h1>
+<h1 align=center><imgsrc="https://github.com/VISHALSHARMA54/VISHALSHARMA54/blob/main/IMAGE/Hi.gif" height="32" /> Hi there, I'm Vishal 👨‍💻</h1>
 
 Welcome to my GitHub profile! I’m a passionate **Embedded Firmware Developer** specializing in designing, implementing, and optimizing firmware for a wide range of **embedded systems**. My focus is on delivering **high-performance, reliable, and scalable** embedded solutions.  
 
