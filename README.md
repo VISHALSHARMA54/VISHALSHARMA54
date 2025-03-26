@@ -1,66 +1,65 @@
-# 👋 Welcome to My GitHub Profile!  
-![Vishal Sharma - Embedded Firmware Developer](https://i.imgur.com/zrN40eb.jpg)  
+# 👨‍💻 Hi, I'm **Vishal Sharma** – Embedded Firmware Developer  
 
-Hi there! I'm **Vishal Sharma**, an **Embedded Firmware Developer** with **2.3+ years of experience** in designing firmware solutions for **IoT, RTOS, and Embedded Systems**.  
+Welcome to my GitHub profile! I’m a passionate **Embedded Firmware Developer** specializing in designing, implementing, and optimizing firmware for a wide range of **embedded systems**. My focus is on delivering **high-performance, reliable, and scalable** embedded solutions.  
 
 ---
 
 ## 🚀 About Me  
-🔧 **Embedded Firmware Developer** at EMPROTEK Software Solutions Pvt. Ltd.  
-🎓 **Master's in Electronic Science** from Fergusson College, Pune.  
-🖥️ Expert in **C/C++, RTOS, Microcontroller Programming (ESP32, STM32, Nordic, etc.)**.  
-🔍 Passionate about **low-power design, debugging, and IoT solutions**.  
-📡 Interested in **Wireless Communication, AI in Embedded, and Automation**.  
+
+🔹 **Embedded Firmware Developer | IoT & RTOS Enthusiast | Innovating Embedded Systems**  
+
+I have a **Master’s degree in Electronic Science** from **Fergusson College, Pune**, and a deep passion for **embedded systems, firmware development, and IoT solutions**. My expertise lies in developing **real-time, low-power, and high-efficiency firmware** for microcontroller-based systems.  
+
+💡 **What Drives Me?**  
+I thrive on solving complex challenges in embedded systems, optimizing firmware, and integrating hardware & software to create **scalable, reliable, and future-ready solutions**. Whether it’s **IoT development, hardware debugging, or firmware optimization**, I’m committed to pushing the boundaries of **embedded technology**.  
+
+### 🔹 **My Core Skills**  
+
+- 💻 **Firmware Development** | Low-Level Programming | Hardware-Software Integration  
+- 🛠 **Languages**: C, C++, Python, Assembly (platform-dependent)  
+- 📡 **Protocols**: I2C, SPI, UART, CAN, Ethernet, Bluetooth, MQTT  
+- 🔧 **Tools**: Keil, Visual Studio Code, PlatformIO, JTAG, Debuggers, Git, FreeRTOS, Zephyr  
+- 🔍 **Areas of Expertise**:  
+  - **Real-Time Operating Systems (RTOS)** & Bare-Metal Programming  
+  - **Device Drivers** & Peripheral Programming  
+  - **Firmware Optimization** for Low-Power Embedded Systems  
+  - **IoT & Wireless Communication** (Wi-Fi, BLE, LoRa, MQTT)  
+  - **System Integration** & Hardware Debugging  
 
 ---
 
-## 🛠 Tech Stack  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)  
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)  
-![RTOS](https://img.shields.io/badge/RTOS-008080?style=flat-square)  
-![IoT](https://img.shields.io/badge/IoT-4682B4?style=flat-square)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)  
+## 🌟 What I Do  
+
+I specialize in **embedded systems development**, focusing on **microcontroller-based designs, IoT solutions, and real-time applications**.  
+
+🔹 **Low-Level Firmware Development**: Efficient **C/C++** firmware for **STM32, ESP32, Nordic, and other MCUs**  
+🔹 **Hardware-Software Integration**: Collaborating with hardware teams for robust performance  
+🔹 **Communication Protocols**: Implementing **UART, SPI, I2C, CAN, Bluetooth, MQTT**  
+🔹 **Power Optimization**: Enhancing **battery life & power efficiency** for IoT devices  
 
 ---
 
-## 📈 GitHub Stats  
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHALSHARMA54&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=VISHALSHARMA54&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALSHARMA54&layout=compact&theme=tokyonight)  
+## 🛠️ Technologies & Tools  
+
+Here are the technologies and tools I regularly work with:  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![RTOS](https://img.shields.io/badge/RTOS-008080?style=for-the-badge)  ![IoT](https://img.shields.io/badge/IoT-4682B4?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)  
 
 ---
 
-## 🔥 Featured Projects  
-🚀 [Project Name 1](https://github.com/VISHALSHARMA54/Project1) - **Short project description**  
-🔧 [Project Name 2](https://github.com/VISHALSHARMA54/Project2) - **Short project description**  
-💡 [Project Name 3](https://github.com/VISHALSHARMA54/Project3) - **Short project description**  
+## 📬 Let’s Connect!  
+
+I'm always open to collaborating on exciting **embedded projects**, discussing emerging **technologies**, and **networking** with like-minded professionals. If you're looking for a **dedicated problem-solver** in the embedded domain, feel free to reach out!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalfulchandsharma)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalfulchandsharma@gmail.com)  
 
 ---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalfulchandsharma)  
-📧 Email: **vishalfulchandsharma@gmail.com**  
+⭐ If you find my work useful, consider giving it a star! ⭐  
 
----
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHALSHARMA54&show_icons=true&theme=default&rank_icon=github)
+![Profile Views](https://komarev.com/ghpvc/?username=VISHALSHARMA54&color=blue&style=for-the-badge)  [![GitHub Followers](https://img.shields.io/github/followers/VISHALSHARMA54?style=for-the-badge)](https://github.com/VISHALSHARMA54?tab=followers)  
 
-⭐ **If you find my work useful, consider giving it a star!** ⭐  
 
-<!--
-**VISHALSHARMA54/VISHALSHARMA54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
