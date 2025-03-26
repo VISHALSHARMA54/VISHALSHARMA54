@@ -49,6 +49,7 @@ I'm always open to collaborating on exciting **embedded projects**, discussing e
 ⭐ If you find my work useful, consider giving it a star! ⭐  
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHALSHARMA54&show_icons=true&theme=default&rank_icon=github)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=VISHALSHARMA54&color=blue&style=for-the-badge)  [![GitHub Followers](https://img.shields.io/github/followers/VISHALSHARMA54?style=for-the-badge)](https://github.com/VISHALSHARMA54?tab=followers)  
 
 
